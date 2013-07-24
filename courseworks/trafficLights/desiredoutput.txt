@@ -1,0 +1,59 @@
+==========================
+Roads open in Sleepy Town:
+==========================
+
+A pair T1 and T2 of (slow) collaborating lights is set up:
+
+*** at 0:0:0 a car wants to cross light T1 (North South), with colour: red
+    at 0:15:0 T1 (North South) changes colour to yellow
+    at 0:30:0 T1 (North South) changes colour to green
+
+*** at 0:30:0 a car wants to cross light T2 (East West), with colour: red
+    at 0:45:0 T1 (North South) changes colour to yellow
+    at 0:50:0 T2 (East West) changes colour to yellow
+    at 1:5:0 T1 (North South) changes colour to red
+    at 1:10:0 T2 (East West) changes colour to green
+
+*** at 1:10:0 a car wants to cross light T1 (North South), with colour: red
+    at 1:15:0 T2 (East West) changes colour to yellow
+    at 1:30:0 T1 (North South) changes colour to yellow
+    at 1:35:0 T2 (East West) changes colour to red
+    at 1:50:0 T1 (North South) changes colour to green
+
+*** at 1:50:0 a car wants to cross light T2 (East West), with colour: red
+    at 2:5:0 T1 (North South) changes colour to yellow
+    at 2:10:0 T2 (East West) changes colour to yellow
+    at 2:25:0 T1 (North South) changes colour to red
+    at 2:30:0 T2 (East West) changes colour to green
+
+A new pair T3 and T4 of (very slow!) collaborating lights is now set up:
+
+*** at 2:30:0 a car wants to cross light T3 (North South), with colour: red
+    at 8:45:44 T3 (North South) changes colour to yellow
+    at 15:1:28 T3 (North South) changes colour to green
+
+*** at 15:1:28 a car wants to cross light T3 (North South), with colour: green
+
+*** at 15:1:28 a car wants to cross light T4 (East West), with colour: red
+    at 21:17:12 T3 (North South) changes colour to yellow
+    at 11:23:9 T4 (East West) changes colour to yellow
+    at 17:38:53 T3 (North South) changes colour to red
+    at 7:44:50 T4 (East West) changes colour to green
+
+*** at 7:44:50 a car wants to cross light T4 (East West), with colour: green
+
+*** at 7:44:50 a car wants to cross light T3 (North South), with colour: red
+    at 21:50:47 T4 (East West) changes colour to yellow
+    at 4:6:31 T3 (North South) changes colour to yellow
+    at 18:12:28 T4 (East West) changes colour to red
+    at 0:28:12 T3 (North South) changes colour to green
+
+*** at 0:28:12 a car wants to cross light T4 (East West), with colour: red
+    at 6:43:56 T3 (North South) changes colour to yellow
+    at 20:49:53 T4 (East West) changes colour to yellow
+    at 3:5:37 T3 (North South) changes colour to red
+    at 17:11:34 T4 (East West) changes colour to green
+
+===================================
+Roads close forever in Sleepy Town.
+===================================
