@@ -1,0 +1,57 @@
+====================================
+Vehicle charging system operational!
+====================================
+***  A 12-axle lorry (L10RRY) has been registered
+
+***  A bus (T3SSA) has been registered
+
+***  10 passengers board the bus (T3SSA), so 10 passengers are on board
+
+***  The 12-axle lorry (L10RRY) enters on 02/10/2011 at 10h00 hours
+     The vehicle is charged #12.00 (now owes #12.00)
+
+***  The council sets the basic unit charge to #2.00
+
+***  The council says diesel cars with emissions less than 10.00 ppcm
+     should pay a reduced rate
+
+***  The bus (T3SSA) enters on 02/10/2011 at 11h00 hours
+     The vehicle is charged #10.00 (now owes #10.00)
+
+***  5 passengers leave the bus (T3SSA), leaving 5 passengers on board
+
+***  The bus (T3SSA) enters on 02/10/2011 at 13h00 hours
+     The vehicle has already been charged today ; no action is taken
+
+***  A petrol car (M1LLY) has been registered
+
+***  A 15-ppcm diesel car (V4NLI) has been registered
+
+***  The petrol car (M1LLY) enters on 02/10/2011 at 16h00 hours
+     The vehicle is charged #4.00 (now owes #4.00)
+
+***  The 15-ppcm diesel car (V4NLI) enters on 02/10/2011 at 17h00 hours
+     The vehicle is charged #6.00 (now owes #6.00)
+
+***  The council sets the basic unit charge to #2.50
+
+***  The 15-ppcm diesel car (V4NLI) enters on 03/10/2011 at 02h00 hours
+     The vehicle goes free (now owes #6.00)
+
+***  20 passengers board the bus (T3SSA), so 25 passengers are on board
+
+***  The bus (T3SSA) enters on 03/10/2011 at 14h00 hours
+     The vehicle goes free (now owes #10.00)
+
+***  The council says diesel cars with emissions less than 20.00 ppcm
+     should pay a reduced rate
+
+***  The 15-ppcm diesel car (V4NLI) enters on 01/01/2012 at 10h00 hours
+     The vehicle is charged #2.50 (now owes #8.50)
+
+***  The 12-axle lorry (L10RRY) enters on 01/01/2012 at 11h00 hours
+     The vehicle is charged #30.00 (now owes #42.00)
+
+=====================================
+Vehicle charging system powered down!
+=====================================
